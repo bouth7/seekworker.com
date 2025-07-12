@@ -1,1 +1,3 @@
-# seekworker.com
+# SeekWorker - Production Build
+
+Firebase-enabled job platform.
